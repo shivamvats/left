@@ -6,7 +6,10 @@ rdiscount:
 gems:
   - jekyll-sitemap
 
-name: Zach Holman
-url: http://zachholman.com
-description: A fantastic blog that is fantastic.
-twitter: holman
+name: Shivam Vats
+url: https://shivamvats.github.io/
+description: Getting better
+avatar: https://avatars0.githubusercontent.com/u/6918975?v=3&s=460
+
+github: shivamvats
+linkedin: shivamvats
